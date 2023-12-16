@@ -1,0 +1,234 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn,img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	padding: 20px;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+
+ .row{
+	margin:10px 0px;
+	padding: 1%;
+	width: auto;
+	overflow:auto;
+ }
+
+.image50{
+	width: auto;
+	padding: 1%;
+	overflow: hidden;
+	display: inline;
+}
+body {
+	background-color: #FFFFF;
+	font-size: 16px;
+}
+h1, p {
+	color: #000000;
+	background-color: rgb(0,0,0);
+	background-color:
+	rgba(0,0,0,0.5);
+}
+
+h1{
+	font-family: Bel MT, sans-serif;
+	font-size: 1.5em;
+}
+
+
+h2{
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 1.4em;
+	text-align: center;
+	margin: 0px auto;
+}
+
+h3{
+	font-family: Georgia, Times, serif;
+	font-size: 1.2em;
+	text-align: center;
+	margin: 0px auto;
+}
+
+h4{
+	font-family: Proxima Nova, sans-serif;
+	font-size: 1.2em;
+	text-align: center;
+	margin: 0px auto;
+}
+
+h5{
+	font-family:
+	font-size:
+	text-align
+	margin:
+
+}
+
+h6{
+	font-family:
+	font-size:
+	text-algin:
+	margin:
+
+}
+
+	/*ERROR missing all type elements style rules below need h2, h3, h4, h5, h6 defined using properties outlined in the assignment 3 sheet -- 7/10 on assignment without */
+	
+	/*ERROR missing CSS to design header to reflect site design -- 5/10 on assignment 4 as is */
+	
+	
+	/* ERROR header, nav, middle section and footer styles do not match site design */
+	
+	
+header{
+	width: 100%;
+	background-color: #fffff;
+	height: 120px;
+	overflow: auto;
+}
+
+nav{
+	width: 50%;
+	float: left;
+	background-color: white;
+}
+
+h1{
+	width: 50%;
+	float: right;
+	background-color: white;
+	text-align: right;
+	font-family: Castellar, sans serif;
+}
+
+
+
+form {
+	background-color:  #C8A2C8; 
+	border-spacing: 100px;
+	color: black;
+	font-family: Felix Titling;
+	padding: 20px;
+	height: auto;
+	width: auto;
+	line-height:2.5;
+	
+}
+
+p{
+	background-color: #C8A2C8;
+	
+}
+	
+	
+
+
+tr{ 
+	border-bottom: 1px solid white:
+}
+
+img.smallImage{
+	width: 100px;
+	height: auto;
+}
+	
+#homepageColumns{
+	width: 80%;
+	padding: 10%;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.threeCol{
+	width:31.3%;
+	padding: 1%;
+}
+
+
+
+nav ul li a{
+	color: black ;
+	line-height: insert value here ;
+	font-family: Calisto MT ;
+	font-size: 24 ;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+h1{
+	color: black ;
+	line-height: insert value here ;
+	font-family: Castellar ;
+	font-size: 64 ;
+	font-weight: insert value here ;
+}
+
+
+h3{
+	color: black ;
+	line-height: insert value here ;
+	font-family: Bell MT ;
+	font-size: 36 ;
+	font-weight: insert value here ;
+}
+	
+}
+
+.threeCol{
+	width:31.3%;
+	padding: 1%;
+	
+}
+	
+}
+
+	color: insert value here ;
+	line-height: insert value here ;
+	font-family: insert value here ;
+	font-size: insert value here ;
+	font-weight: insert value here ;
+}
+
+
+
